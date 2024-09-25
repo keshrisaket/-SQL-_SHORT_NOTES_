@@ -1,0 +1,2 @@
+# -SQL-_SHORT_NOTES_
+🔺SQL🔺_SHORT_NOTES_
